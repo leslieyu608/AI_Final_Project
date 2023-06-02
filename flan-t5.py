@@ -3,7 +3,7 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 def flan_t5(input_text, model_index):
 
-    model_size = [base, small, large, xl]
+    model_size = ["base", "small", "large", "xl"]
 
     tokenizer = T5Tokenizer.from_pretrained(
         "google/flan-t5-" + model_size[model_index])
