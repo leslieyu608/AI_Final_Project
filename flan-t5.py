@@ -1,4 +1,3 @@
-# pip install accelerate
 from main import T5Tokenizer, T5ForConditionalGeneration
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
