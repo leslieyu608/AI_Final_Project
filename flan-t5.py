@@ -1,4 +1,4 @@
-from main import T5Tokenizer, T5ForConditionalGeneration
+from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 
 def flan_t5(input_text, model_index):
