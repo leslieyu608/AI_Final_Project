@@ -7,7 +7,7 @@ def model(input_text, model_index):
     tokenizer = T5Tokenizer.from_pretrained(
         "google/flan-t5-" + model_size[model_index])
     model = T5ForConditionalGeneration.from_pretrained(
-        "google/flan-t5-" + model_size[model_index], device_map="auto"
+        "google/flan-t5-" + model_size[model_index]
     )
 
     input_ids = tokenizer(input_text, return_tensors="pt").input_ids
