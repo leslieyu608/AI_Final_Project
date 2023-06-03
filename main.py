@@ -7,10 +7,10 @@ flan_alpaca = importlib.import_module("flan-alpaca")
 def main():
     input_text = "Write a fantasy story about a tragic knight in an apocalyptic world."
 
-    print("flan-t5-base:")
+    print("flan-t5-small:")
     flan_T5.model(input_text, model_index=0)
 
-    print("flan-t5-small:")
+    print("flan-t5-base:")
     flan_T5.model(input_text, model_index=1)
 
     print("flan-t5-large:")
