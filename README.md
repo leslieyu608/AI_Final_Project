@@ -10,7 +10,7 @@ See `result1.txt`.
 
 ## Result 2
 ### Input
-`Write a adventure story in a magic world.`
+`Write an adventure story in a magic world.`
 
 ### Outputs
 See `result2.txt`.

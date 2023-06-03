@@ -7,7 +7,7 @@ flan_alpaca = importlib.import_module("flan-alpaca")
 
 def main():
     # input_text = "Write a fantasy story about a tragic knight in an apocalyptic world."
-    input_text = "Write a adventure story in a magic world."
+    input_text = "Write an adventure story in a magic world."
 
     print("flan-t5-small:")
     for i in tqdm(range(1)):
