@@ -7,6 +7,7 @@ Write a fantasy story about a tragic knight in an apocalyptic world.
 
 ### Outputs
 > flan-t5-small:
+> 
 > <pad> The Knights of the Alps are a savage wolf who is able to escape from the evil wolves of eagles. The knights have been relegated to the dark lands of their ancestors, and are now unable to survive. They are forced to leave the castle and return to their homeland. A knight is sent to encircle the city of Paris, where he is forced into waking up in the darkness of night. He is then rescued by king Nicola, who has been sent by the knight to take over the town. When irresisting, if lord napoleon tries to save the Knight, the two writhe and eat the remains of his eldest son, King X. King is also bitten by an arrow and is killed by his evil brother. During the night, his brother, Prince Yvonne, is attacked by one of them. Prince and his son are killed in ice-cream. After the death of King, Princess Antoine, Duke of Burgundy, they are taken to an abandoned castle.</s>
 
 > flan-t5-base:
