@@ -17,7 +17,7 @@ See `result2.txt`.
 
 ## Result 3
 ### Input
-`Write a righteous story about a group of superheroes who ultimately destroy the super villain`
+`Write a righteous story about a group of superheroes who ultimately destroy the super villain.`
 
 ### Outputs
 See `result3.txt`.
